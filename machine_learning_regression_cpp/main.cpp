@@ -1,20 +1,20 @@
 #define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING
 #include <iostream>
-#include "LoadCSV.h"
+#include "LinearMetrics.h"
 #include <experimental/filesystem>
 
 int main() {
 
 	// Constructor
-	LoadCSV dataset;
+	LinearMetrics dataset;
 
 	// Loading data
-	dataset.read_data("data\\dataset.csv");
+	dataset.read_data("data\\insurance.csv");
 	dataset.check();
-	dataset.data_normalization();
 	dataset.split_data();
-
-	std::cout << "Current path " << std::experimental::filesystem::current_path() << std::endl;
+	dataset.estimate();
+	dataset.show();
+	dataset.gradient_descent();
 	
 	return 0;
 

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LoadCSV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|solutionrelative:LoadCSV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LoadCSV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|solutionrelative:LoadCSV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearMetrics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|solutionrelative:LinearMetrics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearRegression.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|solutionrelative:LinearRegression.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearRegression.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CF1BBF3-A222-4A31-B0A2-5A5ED563203C}|machine_learning_regression_cpp.vcxproj|solutionrelative:LinearRegression.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-22T12:37:35.629Z",
               "IsPinned": true,
@@ -40,28 +44,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoadCSV.h",
-              "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LoadCSV.h",
-              "RelativeDocumentMoniker": "LoadCSV.h",
-              "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LoadCSV.h",
-              "RelativeToolTip": "LoadCSV.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "DocumentIndex": 1,
+              "Title": "LinearMetrics.h",
+              "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearMetrics.h",
+              "RelativeDocumentMoniker": "LinearMetrics.h",
+              "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearMetrics.h",
+              "RelativeToolTip": "LinearMetrics.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-22T03:29:43.41Z",
+              "WhenOpened": "2024-08-19T03:13:21.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoadCSV.cpp",
-              "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LoadCSV.cpp",
-              "RelativeDocumentMoniker": "LoadCSV.cpp",
-              "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LoadCSV.cpp",
-              "RelativeToolTip": "LoadCSV.cpp",
-              "ViewState": "AQIAALwAAAAAAAAAAAAowMsAAAACAAAA",
+              "DocumentIndex": 2,
+              "Title": "LinearRegression.cpp",
+              "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearRegression.cpp",
+              "RelativeDocumentMoniker": "LinearRegression.cpp",
+              "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearRegression.cpp",
+              "RelativeToolTip": "LinearRegression.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-22T12:38:56.019Z",
+              "WhenOpened": "2024-08-01T02:19:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinearRegression.h",
+              "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearRegression.h",
+              "RelativeDocumentMoniker": "LinearRegression.h",
+              "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\project_machine_learning_regression_cpp\\machine_learning_regression_cpp\\LinearRegression.h",
+              "RelativeToolTip": "LinearRegression.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-01T02:16:16.338Z",
               "EditorCaption": ""
             }
           ]

@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="LinearRegression.h" />
     <ClInclude Include="LoadCSV.h" />
+    <ClInclude Include="LinearMetrics.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="LinearRegression.cpp" />
     <ClCompile Include="LoadCSV.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="LinearMetrics.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

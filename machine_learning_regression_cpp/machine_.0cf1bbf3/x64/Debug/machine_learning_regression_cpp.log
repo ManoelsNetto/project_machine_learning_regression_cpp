@@ -1,17 +1,4 @@
-﻿  LoadCSV.cpp
-  main.cpp
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(55,35): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(55,35): warning C4244:         with
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(55,35): warning C4244:         [
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(55,35): warning C4244:             _Ty=float
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(55,35): warning C4244:         ]
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(138,19): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(139,19): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(156,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(157,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(168,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LoadCSV.cpp(169,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+﻿  main.cpp
+  LinearMetrics.cpp
   Generating Code...
-  machine_learning_regression_cpp.vcxproj -> C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\x64\Debug\machine_learning_regression_cpp.exe
-  'pwsh.exe' não é reconhecido como um comando interno
-  ou externo, um programa operável ou um arquivo em lotes.
+C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LinearMetrics.cpp(1,10): error C1083: Cannot open include file: 'Metrics.h': No such file or directory
