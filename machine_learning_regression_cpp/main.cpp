@@ -12,10 +12,12 @@ int main() {
 	dataset.read_data("data\\insurance.csv");
 	dataset.check();
 	dataset.split_data();
+	dataset.correlation();
 	dataset.estimate();
 	dataset.show();
 	dataset.gradient_descent();
-	
+	dataset.rsquare_for_formula();
+	dataset.rsquare_for_gradient();
 	return 0;
 
 }

@@ -56,7 +56,7 @@ void LinearRegression::predict() {
 };
 
 // Learning algorithm
-void LinearRegression::gradient_descent(float learning_rate, int max_iterations) {
+void LinearRegression::gradient_descent(bool plot, float learning_rate, int max_iterations) {
 
 	// Variables
 	float c = 0.0f; // intercept
@@ -87,7 +87,7 @@ void LinearRegression::gradient_descent(float learning_rate, int max_iterations)
 		m -= alpha * (slope_gradient / n);
 
 		// Print the error to monitor convergence
-		if (iter % 100 == 0) {
+		if (plot && (iter % 100 == 0)) {
 
 			std::cout << "Iteration: " << iter << "; Error: " << total_error / n << std::endl;
 

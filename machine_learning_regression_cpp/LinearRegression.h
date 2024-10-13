@@ -17,8 +17,7 @@ public:
 	void estimate();
 	void show();
 	void predict();
-	void gradient_descent(float learning_rate = 0.00019, int max_iterations = 4500);
-	
+	void gradient_descent(bool plot = false, float learning_rate = 0.00019, int max_iterations = 4500);
 
 };
 
