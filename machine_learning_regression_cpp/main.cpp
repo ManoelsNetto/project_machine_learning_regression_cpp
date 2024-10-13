@@ -15,8 +15,9 @@ int main() {
 	dataset.correlation();
 	dataset.estimate();
 	dataset.show();
-	dataset.gradient_descent();
+	dataset.predict();
 	dataset.rsquare_for_formula();
+	dataset.gradient_descent();
 	dataset.rsquare_for_gradient();
 	return 0;
 
