@@ -1,16 +1,5 @@
-﻿  LinearMetrics.cpp
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LinearMetrics.cpp(8,32): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LinearMetrics.cpp(11,48): warning C4244: '=': conversion from 'unsigned __int64' to 'float', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LinearMetrics.cpp(12,48): warning C4244: '=': conversion from 'unsigned __int64' to 'float', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LinearMetrics.cpp(35,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
-C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\LinearMetrics.cpp(53,16): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         with
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         [
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:             _Ty=int
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         ]
-  main.cpp
-  Generating Code...
+﻿  main.cpp
+C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   machine_learning_regression_cpp.vcxproj -> C:\Users\Alstra\Documents\GitHub\project_machine_learning_regression_cpp\machine_learning_regression_cpp\x64\Debug\machine_learning_regression_cpp.exe
   'pwsh.exe' não é reconhecido como um comando interno
   ou externo, um programa operável ou um arquivo em lotes.
