@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alstra\\Documents\\GitHub\\lab_pytorch\\Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65469D8-7444-4307-9160-6EC1D506818D}|Lab.pyproj|C:\\Users\\Alstra\\Documents\\GitHub\\lab_pytorch\\Lab\\Lab.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C65469D8-7444-4307-9160-6EC1D506818D}|Lab.pyproj|solutionrelative:Lab.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lab||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65469D8-7444-4307-9160-6EC1D506818D}|Lab.pyproj|C:\\Users\\Alstra\\Documents\\GitHub\\lab_pytorch\\Lab\\Lab.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30",
+      "RelativeMoniker": "D:0:0:{C65469D8-7444-4307-9160-6EC1D506818D}|Lab.pyproj|solutionrelative:Lab.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|888888fd-3c4a-40da-aefb-5ac10f5e8b30"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab",
+              "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\lab_pytorch\\Lab\\Lab.pyproj",
+              "RelativeDocumentMoniker": "Lab.pyproj",
+              "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\lab_pytorch\\Lab\\Lab.pyproj",
+              "RelativeToolTip": "Lab.pyproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-02T02:39:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab.py",
+              "DocumentMoniker": "C:\\Users\\Alstra\\Documents\\GitHub\\lab_pytorch\\Lab\\Lab.py",
+              "RelativeDocumentMoniker": "Lab.py",
+              "ToolTip": "C:\\Users\\Alstra\\Documents\\GitHub\\lab_pytorch\\Lab\\Lab.py",
+              "RelativeToolTip": "Lab.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-02T02:38:12.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
