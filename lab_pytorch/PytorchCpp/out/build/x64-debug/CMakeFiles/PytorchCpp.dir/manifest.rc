@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Alstra/Documents/GitHub/project_machine_learning_regression_cpp/lab_pytorch/PytorchCpp/out/build/x64-debug/CMakeFiles/PytorchCpp.dir/embed.manifest"

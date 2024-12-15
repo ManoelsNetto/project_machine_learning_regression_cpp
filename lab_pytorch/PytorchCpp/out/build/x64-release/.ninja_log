@@ -1,0 +1,8 @@
+# ninja log v5
+28	21246	7550749839120493	CMakeFiles/PytorchCpp.dir/PytorchCpp.cpp.obj	553ac14f8408dcf8
+21249	22728	7550749843555910	PytorchCpp.exe	3bee90a6c8d79853
+12	32	0	clean	8c45b54705a541e8
+52	20069	7552476614123855	CMakeFiles/PytorchCpp.dir/PytorchCpp.cpp.obj	553ac14f8408dcf8
+20072	25667	7552476618403845	PytorchCpp.exe	3bee90a6c8d79853
+87	21501	7552477924664163	CMakeFiles/PytorchCpp.dir/PytorchCpp.cpp.obj	553ac14f8408dcf8
+21505	22530	7552477927664208	PytorchCpp.exe	3bee90a6c8d79853

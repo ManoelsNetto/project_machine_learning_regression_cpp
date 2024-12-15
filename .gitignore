@@ -4,3 +4,5 @@ machine_learning_regression_cpp/.vs/machine_learning_regression_cpp/FileContentI
 machine_learning_regression_cpp/.vs/machine_learning_regression_cpp/FileContentIndex/0a95547d-dbdd-49a2-8b94-006a1b379f1c.vsidx
 machine_learning_regression_cpp/.vs/machine_learning_regression_cpp/FileContentIndex/b53e84f4-760b-4bf4-8015-e508051259e7.vsidx
 *.vsidx
+lab_pytorch/PytorchCpp/.vs/PytorchCpp/v17/Browse.VC.db
+lab_pytorch/PytorchCpp/out/build/x64-release/torch_cpu.dll
